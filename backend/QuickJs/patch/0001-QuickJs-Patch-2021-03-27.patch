@@ -1,3 +1,9 @@
+From REDACTED
+From: REDACTED
+Date: REDACTED
+Subject: [PATCH] Add new APIs for ScriptX based on QuickJs version
+ "2021-03-27" Changes: 1. add JS_StrictEqual 2. add JS_NewWeakRef 3. add
+ JS_GetWeakRef
 
 WeakRef is implemented based on WeakSet
 ---
